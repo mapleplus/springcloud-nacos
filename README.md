@@ -6,7 +6,7 @@
 
 ### 工程结构
 
-![](https://cdn.nlark.com/yuque/0/2025/png/33645198/1745670701420-7f4d6510-feba-48dd-9145-f311c4b0c6a9.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/33645198/1745677004628-90960a57-88a7-4e0e-a720-a09cef89aa93.png?x-oss-process=image%2Fformat%2Cwebp)
 
 ### 依赖配置
 
