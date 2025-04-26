@@ -1,0 +1,15 @@
+server:
+  port: 80
+spring:
+  application:
+    name: nacos-study
+  config:
+    import: "nacos:nacos-study.yaml"
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 122.51.165.51:8848
+      config:
+        file-extension: yaml
+        server-addr: 122.51.165.51:8848
+
